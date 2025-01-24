@@ -2,7 +2,7 @@
 Here I am going to add solutions for SQL problems available on HackerRank which I solve.
 
 | Subdomain | Challenge | My Solution in MySQL |Difficulty|
-|------------------|------------------|------------------|
+|------------------|------------------|-------------------|
 | Basic Select |[Revising the select Query l](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  |      | Easy |
 | Basic Select |[Revising the select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|     | Easy |
 | Basic Select |[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)     |     | Easy |
