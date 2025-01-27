@@ -3,7 +3,7 @@ Here I am going to add solutions for SQL problems available on HackerRank which 
 
 | Subdomain | Challenge | My Solution in MySQL |
 |------------------|------------------|-------------------|
-| Basic Select |[Revising the select Query l](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  |      |
+| Basic Select |[Revising the select Query l](https://www.hackerrank.com/challenges/revising-the-select-query/problem)  | [MySQLsolution](https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/289397324)|
 | Basic Select |[Revising the select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|     | 
 | Basic Select |[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)     |     | 
 | Basic Select |[Select By Id](https://www.hackerrank.com/challenges/select-by-id/problem)     |     | 
